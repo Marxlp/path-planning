@@ -1,2 +1,2 @@
 # path-planning
-path planning algorithms
+Path planning algorithms basded on CoppliaSim platform.
